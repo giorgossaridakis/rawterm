@@ -27,7 +27,5 @@ Options:
  
  -o<filename>	output file, default <rawterm.log>
  
-      --help	display this help
- 
 
 Distributed under the GNU Public licence.
